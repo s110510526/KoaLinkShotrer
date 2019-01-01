@@ -1,0 +1,21 @@
+{
+  "name": "koa_link_shorter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.6",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "mongodb": "^3.1.10",
+    "mongodb-core": "^3.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
