@@ -23,7 +23,7 @@ const indexHtml = _.template(`
 <body style="color: gray; font-size: 1.2em;">
     <div class="container" style="margin:50px auto;">
         <div class="row" style="font-family: Segoe UI Emoji; font-size: 3.5em; color: transparent; text-shadow: 0 0 0 lightblue;">
-            <span style="margin: 30px auto;">🔔 Short URL</span>
+            <span style="margin: 30px auto;">Short URL</span>
         </div>
         <form action="/" method="POST"class="form">
             <div class="input-group row">
