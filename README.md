@@ -1,2 +1,2 @@
-"# KoaLinkShotrer" 
-"# 110510526林鍇傑" 
+"KoaLinkShotrer" 
+"110510526林鍇傑" 
